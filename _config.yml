@@ -22,10 +22,10 @@ repository               : "fake-versace/fake-versace.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jamie_mason_profile_square.png"
   name             : "Jamie Mason"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a teaching fellow at Durham University, before that completed my PhD at the university of Birmingham under the supervision of David Craven"
   location         : "Durham"
   employer         : "Durham University"
   uri              : # URL
