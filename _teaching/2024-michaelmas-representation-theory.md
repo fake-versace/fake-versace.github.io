@@ -9,3 +9,4 @@ location: "Durham"
 paperurl: 'http://fake-versace.github.io/files/Representationtheorynotesmichaelmas.pdf'
 ---
 
+[PDF here](http://fake-versace.github.io/files/Representationtheorynotesmichaelmas.pdf)
