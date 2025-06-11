@@ -83,8 +83,6 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
-  thesis:
     title: 'PhD Thesis'
 
 # Site Settings
