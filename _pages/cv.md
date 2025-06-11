@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D.\ in Pure Mathematics under the supervision of Dr David Craven, University of Birmingham, 2024
+* Ph.D. in Pure Mathematics under the supervision of Dr David Craven, University of Birmingham, 2024
 * M.Sci. First Class in Mathematics, University of Glasgow, 2020
 
 Work experience
@@ -20,15 +20,22 @@ Work experience
   * University of Durham, Durham
   * Duties includes: Module coordinator and lecturer for Representation Theory IV, e-assessment coordinator for Linear Algebra I, Level III project supervision, running level I and II tutorials.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept. 2023 - May 2024: Postgraduate Tutor (Maths Support Centre)
+  * University of Birmingham, Birmingham
+  * Duties included: assisting undergraduate and graduate students from any STEM or social science subject with
+problems they had with the mathematical part of their studies.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept. 2020 – May 2024: Postgraduate Teaching Assistant
+  * University of Birmingham, Birmingham
+  * Duties included: leading first and second year guided studies, lecturing first year example classes, marking first and second year assignments and first year exams.
+  
+* Sept. 2020 – May 2024: Postgraduate Teaching Assistant
+  * University of Birmingham, Birmingham
+  * Duties included: leading first and second year guided studies, lecturing first year example classes, marking first and second year assignments and first year exams.
+    
+* Sept. 2020 – May 2024: Postgraduate Teaching Assistant
+  * University of Birmingham, Birmingham
+  * Duties included: leading first and second year guided studies, lecturing first year example classes, marking first and second year assignments and first year exams.
   
 Skills
 ======
